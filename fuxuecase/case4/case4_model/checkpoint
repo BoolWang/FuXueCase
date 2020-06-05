@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\0316\\modle\\course_modle.ckpt"
+all_model_checkpoint_paths: "E:\\0316\\modle\\course_modle.ckpt"
